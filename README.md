@@ -4,8 +4,6 @@ This repository contains implementations, analyses, and evaluations of various d
 
 ## Author
 - **Name**: Hosein Dadras
-- **Student ID**: 810102131
-- **Institution**: University of Tehran, School of Electrical and Computer Engineering, Trustworthy AI Group
 
 ## Table of Contents
 
