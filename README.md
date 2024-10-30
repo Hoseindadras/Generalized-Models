@@ -4,6 +4,8 @@ This repository contains implementations, analyses, and evaluations of various d
 
 ## Author
 - **Name**: Hosein Dadras
+- **Academic Mail**: hoseindadras@ut.ac.ir 
+- **Personal Mail**: hoseindadras6@gmail.com
 
 ## Table of Contents
 
